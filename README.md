@@ -380,6 +380,3 @@ Thinking about a PR? Read [CONTRIBUTING.md](CONTRIBUTING.md) first - it explains
 - [Atul Kumar](https://github.com/atulkumar-gupta) ([skills repo](https://github.com/atulkumar-gupta/Ai-Job-Search)) for the job search CLI skills
 - Built with [Claude Code](https://claude.com/claude-code) by [Anthropic](https://anthropic.com)
 
-## License
-
-MIT
