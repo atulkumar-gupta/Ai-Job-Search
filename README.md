@@ -1,7 +1,17 @@
 <p align="center">
   <img src="assets/mascot/pip_flight_loop.gif" alt="Pip, the courier bird" width="200">
 </p>
+<p align="center">
+  <img src="assets/images/image1.png" alt="AI Job Search" width="700">
+</p>
 
+<p align="center">
+  <img src="assets/images/image2.png" alt="AI Job Search Dashboard" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/images/image3.png" alt="AI Job Search Results" width="700">
+</p>
 # AI Job Search
 
 *The job search that runs on your machine.*
