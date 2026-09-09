@@ -24,7 +24,7 @@ I'm a geophysicist by training. When my position was cut in late 2025, I built t
 
 Sixty-nine tailored applications, twenty first interviews, and one signed contract later, I started as an AI engineer in June 2026. People kept asking whether this actually works. It got me hired. Now it's yours.
 
-*The longer version, including the full application funnel, is on [LinkedIn](https://www.linkedin.com/in/mads-lorentzen/).*
+*The longer version, including the full application funnel, is on [LinkedIn](https://www.linkedin.com/in/atul-kumar-3b936520a/).*
 
 <p align="center">
   <i>Did this save you a Sunday of cover-letter writing? Consider a coffee.<br>
@@ -381,7 +381,7 @@ Thinking about a PR? Read [CONTRIBUTING.md](CONTRIBUTING.md) first - it explains
 
 ## Acknowledgements
 
-- [Mikkel Krogholm](https://github.com/mikkelkrogsholm) ([skills repo](https://github.com/mikkelkrogsholm/skills)) for the job search CLI skills
+- [Mikkel Krogholm](https://github.com/mikkelkrogsholm) ([skills repo](https://github.com/atulkumar-gupta)) for the job search CLI skills
 - Built with [Claude Code](https://claude.com/claude-code) by [Anthropic](https://anthropic.com)
 
 ## License
