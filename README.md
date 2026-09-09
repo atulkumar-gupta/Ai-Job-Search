@@ -6,11 +6,7 @@
 
 *The job search that runs on your machine.*
 
-<p align="center">
-  <a href="https://trendshift.io/repositories/43622?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-43622" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/43622/daily" alt="AtulKumar%2Fai-job-search | Trendshift" width="250" height="55"/></a>
-</p>
-
-[![CI](https://github.com/atulkumar-gupta/Ai-Job-Search)](https://github.com/atulkumar-gupta/Ai-Job-Search/actions/workflows/ci.yml)
+[![CI](https://github.com/atulkumar-gupta/Ai-Job-Search)
 
 An AI-powered job application framework built on [Claude Code](https://claude.com/claude-code). Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.
 
@@ -69,7 +65,7 @@ The framework encodes career guidance best practices, including structured evalu
 
 ## Quick start
 
-> 🎥 **Prefer to see it in action first?** [The Next New Thing did a hands-on walkthrough](https://www.youtube.com/watch?v=HoVxjMNFYv4) of how the workflow is actually used, from setup to a finished application (recorded September 2026 - commands may have evolved since).
+> 🎥 **Prefer to see it in action first?** [The Next New Thing did a hands-on walkthrough]() of how the workflow is actually used, from setup to a finished application (recorded September 2026 - commands may have evolved since).
 
 ### 1. Fork and clone
 
