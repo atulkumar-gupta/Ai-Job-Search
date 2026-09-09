@@ -6,7 +6,7 @@
 
 *The job search that runs on your machine.*
 
-[![CI](https://github.com/atulkumar-gupta/Ai-Job-Search)
+[](https://github.com/atulkumar-gupta/Ai-Job-Search)
 
 An AI-powered job application framework built on [Claude Code](https://claude.com/claude-code). Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.
 
